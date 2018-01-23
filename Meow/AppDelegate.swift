@@ -27,6 +27,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             MSDistribute.setInstallUrl(Constants.intInstallUrl)
             MSDistribute.setApiUrl(Constants.intApiUrl)
             MSAppCenter.setLogUrl("https://in-integration.dev.avalanch.es")
+            MSAnalytics.setEnabled(true)
             appSecret = Constants.intAppSecret
         #endif
         #if ACCESSIBILITYINT
