@@ -7,11 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8578D0F49BA00A14609EA955 /* Pods_Meow_INT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A5593DBE7B0BAD397B7BEBA /* Pods_Meow_INT.framework */; };
+		3191ACEAE465F6A2E059FE79 /* Pods_Meow_INT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A34793A6D30B00F1F4A1FFDC /* Pods_Meow_INT.framework */; };
 		9B725C331FBCCC4F00526B15 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0B2B151EAFEA1700422290 /* ViewController.swift */; };
 		9B725C341FBCCC4F00526B15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0B2B131EAFEA1700422290 /* AppDelegate.swift */; };
 		9B725C351FBCCC4F00526B15 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B904F6D1EDFCFBF00E01EC0 /* Constants.swift */; };
-		9B725C371FBCCC4F00526B15 /* Pods_Meow_INT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A5593DBE7B0BAD397B7BEBA /* Pods_Meow_INT.framework */; };
 		9B725C391FBCCC4F00526B15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B1C1EAFEA1700422290 /* LaunchScreen.storyboard */; };
 		9B725C3A1FBCCC4F00526B15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B1A1EAFEA1700422290 /* Assets.xcassets */; };
 		9B725C3B1FBCCC4F00526B15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B171EAFEA1700422290 /* Main.storyboard */; };
@@ -24,22 +23,20 @@
 		9BBF74811FBF720000761529 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0B2B151EAFEA1700422290 /* ViewController.swift */; };
 		9BBF74821FBF720000761529 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0B2B131EAFEA1700422290 /* AppDelegate.swift */; };
 		9BBF74831FBF720000761529 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B904F6D1EDFCFBF00E01EC0 /* Constants.swift */; };
-		9BBF74851FBF720000761529 /* Pods_Meow_INT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A5593DBE7B0BAD397B7BEBA /* Pods_Meow_INT.framework */; };
 		9BBF74871FBF720000761529 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B1C1EAFEA1700422290 /* LaunchScreen.storyboard */; };
 		9BBF74881FBF720000761529 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B1A1EAFEA1700422290 /* Assets.xcassets */; };
 		9BBF74891FBF720000761529 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B171EAFEA1700422290 /* Main.storyboard */; };
 		9BBF74941FBF72A700761529 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0B2B151EAFEA1700422290 /* ViewController.swift */; };
 		9BBF74951FBF72A700761529 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0B2B131EAFEA1700422290 /* AppDelegate.swift */; };
 		9BBF74961FBF72A700761529 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B904F6D1EDFCFBF00E01EC0 /* Constants.swift */; };
-		9BBF74981FBF72A700761529 /* Pods_Meow_INT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A5593DBE7B0BAD397B7BEBA /* Pods_Meow_INT.framework */; };
 		9BBF749A1FBF72A700761529 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B1C1EAFEA1700422290 /* LaunchScreen.storyboard */; };
 		9BBF749B1FBF72A700761529 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B1A1EAFEA1700422290 /* Assets.xcassets */; };
 		9BBF749C1FBF72A700761529 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B0B2B171EAFEA1700422290 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2A5593DBE7B0BAD397B7BEBA /* Pods_Meow_INT.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Meow_INT.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6948F4E8007BED3ECEB5C212 /* Pods-Meow-INT.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Meow-INT.release.xcconfig"; path = "Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT.release.xcconfig"; sourceTree = "<group>"; };
+		15F2A17DE6ABFEB77F80D2D6 /* Pods-Meow-INT.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Meow-INT.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT.debug.xcconfig"; sourceTree = "<group>"; };
+		558B1051089AEFF52863CD45 /* Pods-Meow-INT.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Meow-INT.release.xcconfig"; path = "Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT.release.xcconfig"; sourceTree = "<group>"; };
 		9B0B2B131EAFEA1700422290 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9B0B2B151EAFEA1700422290 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9B0B2B181EAFEA1700422290 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -52,7 +49,9 @@
 		9B904F811EDFE9A600E01EC0 /* Meow-INT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Meow-INT.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BBF748F1FBF720000761529 /* Meow-STAGING.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Meow-STAGING.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BBF74A21FBF72A700761529 /* Meow-INT-ACCESSIBILITY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Meow-INT-ACCESSIBILITY.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FBAB80BDAD379C01B84CC207 /* Pods-Meow-INT.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Meow-INT.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT.debug.xcconfig"; sourceTree = "<group>"; };
+		9CA0FD4415B6AB71F4FB43BE /* Pods_Meow_INT_ACCESSIBILITY.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Meow_INT_ACCESSIBILITY.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A34793A6D30B00F1F4A1FFDC /* Pods_Meow_INT.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Meow_INT.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FEE550E233A9962378B4EEC4 /* Pods_Meow_PROD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Meow_PROD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +59,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9B725C371FBCCC4F00526B15 /* Pods_Meow_INT.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,7 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8578D0F49BA00A14609EA955 /* Pods_Meow_INT.framework in Frameworks */,
+				3191ACEAE465F6A2E059FE79 /* Pods_Meow_INT.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,7 +74,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BBF74851FBF720000761529 /* Pods_Meow_INT.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,7 +81,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BBF74981FBF72A700761529 /* Pods_Meow_INT.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,8 +90,8 @@
 		17C01D6D6143DA10E32BAB11 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				FBAB80BDAD379C01B84CC207 /* Pods-Meow-INT.debug.xcconfig */,
-				6948F4E8007BED3ECEB5C212 /* Pods-Meow-INT.release.xcconfig */,
+				15F2A17DE6ABFEB77F80D2D6 /* Pods-Meow-INT.debug.xcconfig */,
+				558B1051089AEFF52863CD45 /* Pods-Meow-INT.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -139,7 +135,9 @@
 		D9C9A7F76385FA82976E846C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				2A5593DBE7B0BAD397B7BEBA /* Pods_Meow_INT.framework */,
+				A34793A6D30B00F1F4A1FFDC /* Pods_Meow_INT.framework */,
+				9CA0FD4415B6AB71F4FB43BE /* Pods_Meow_INT_ACCESSIBILITY.framework */,
+				FEE550E233A9962378B4EEC4 /* Pods_Meow_PROD.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -151,12 +149,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9B725C3E1FBCCC4F00526B15 /* Build configuration list for PBXNativeTarget "Meow-PROD" */;
 			buildPhases = (
-				9B725C311FBCCC4F00526B15 /* [CP] Check Pods Manifest.lock */,
 				9B725C321FBCCC4F00526B15 /* Sources */,
 				9B725C361FBCCC4F00526B15 /* Frameworks */,
 				9B725C381FBCCC4F00526B15 /* Resources */,
-				9B725C3C1FBCCC4F00526B15 /* [CP] Embed Pods Frameworks */,
-				9B725C3D1FBCCC4F00526B15 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -171,12 +166,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9B904F7E1EDFE9A600E01EC0 /* Build configuration list for PBXNativeTarget "Meow-INT" */;
 			buildPhases = (
-				8CC84C4C531BAD38855D1995 /* [CP] Check Pods Manifest.lock */,
+				F0A202C723A014416004E60A /* [CP] Check Pods Manifest.lock */,
 				9B904F721EDFE9A600E01EC0 /* Sources */,
 				9B904F761EDFE9A600E01EC0 /* Frameworks */,
 				9B904F781EDFE9A600E01EC0 /* Resources */,
-				9DA1B7B47857ADD17A6666C9 /* [CP] Embed Pods Frameworks */,
-				4C34E3893F94CE3C0A256C2E /* [CP] Copy Pods Resources */,
+				B284008BAC40212E4FB540A1 /* [CP] Embed Pods Frameworks */,
+				BA7F729F0620D2D4BEE0FFE4 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -191,12 +186,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9BBF748C1FBF720000761529 /* Build configuration list for PBXNativeTarget "Meow-STAGING" */;
 			buildPhases = (
-				9BBF747F1FBF720000761529 /* [CP] Check Pods Manifest.lock */,
 				9BBF74801FBF720000761529 /* Sources */,
 				9BBF74841FBF720000761529 /* Frameworks */,
 				9BBF74861FBF720000761529 /* Resources */,
-				9BBF748A1FBF720000761529 /* [CP] Embed Pods Frameworks */,
-				9BBF748B1FBF720000761529 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -211,12 +203,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 9BBF749F1FBF72A700761529 /* Build configuration list for PBXNativeTarget "Meow-INT-ACCESSIBILITY" */;
 			buildPhases = (
-				9BBF74921FBF72A700761529 /* [CP] Check Pods Manifest.lock */,
 				9BBF74931FBF72A700761529 /* Sources */,
 				9BBF74971FBF72A700761529 /* Frameworks */,
 				9BBF74991FBF72A700761529 /* Resources */,
-				9BBF749D1FBF72A700761529 /* [CP] Embed Pods Frameworks */,
-				9BBF749E1FBF72A700761529 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -238,11 +227,10 @@
 				ORGANIZATIONNAME = "Jessica Yeh";
 				TargetAttributes = {
 					9B725C301FBCCC4F00526B15 = {
-						DevelopmentTeam = 83U7U2U9D6;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					9B904F701EDFE9A600E01EC0 = {
-						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 					9BBF747E1FBF720000761529 = {
@@ -250,7 +238,7 @@
 						ProvisioningStyle = Automatic;
 					};
 					9BBF74911FBF72A700761529 = {
-						DevelopmentTeam = 83U7U2U9D6;
+						DevelopmentTeam = 5Z97G9NZQ6;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -320,184 +308,58 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		4C34E3893F94CE3C0A256C2E /* [CP] Copy Pods Resources */ = {
+		B284008BAC40212E4FB540A1 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		8CC84C4C531BAD38855D1995 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		9B725C311FBCCC4F00526B15 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		9B725C3C1FBCCC4F00526B15 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/FlatUIKit/FlatUIKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FlatUIKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		9B725C3D1FBCCC4F00526B15 /* [CP] Copy Pods Resources */ = {
+		BA7F729F0620D2D4BEE0FFE4 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/AppCenter/AppCenterDistributeResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		9BBF747F1FBF720000761529 /* [CP] Check Pods Manifest.lock */ = {
+		F0A202C723A014416004E60A /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Meow-INT-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		9BBF748A1FBF720000761529 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		9BBF748B1FBF720000761529 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		9BBF74921FBF72A700761529 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		9BBF749D1FBF72A700761529 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		9BBF749E1FBF72A700761529 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		9DA1B7B47857ADD17A6666C9 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Meow-INT/Pods-Meow-INT-frameworks.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -660,12 +522,11 @@
 		};
 		9B725C3F1FBCCC4F00526B15 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FBAB80BDAD379C01B84CC207 /* Pods-Meow-INT.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 83U7U2U9D6;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/iOS",
@@ -675,7 +536,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-D PROD";
-				PRODUCT_BUNDLE_IDENTIFIER = meow.prod;
+				PRODUCT_BUNDLE_IDENTIFIER = meirav.meow.prod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -686,12 +547,11 @@
 		};
 		9B725C401FBCCC4F00526B15 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6948F4E8007BED3ECEB5C212 /* Pods-Meow-INT.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 83U7U2U9D6;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/iOS",
@@ -701,7 +561,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-D PROD";
-				PRODUCT_BUNDLE_IDENTIFIER = meow.prod;
+				PRODUCT_BUNDLE_IDENTIFIER = meirav.meow.prod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -712,12 +572,12 @@
 		};
 		9B904F7F1EDFE9A600E01EC0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FBAB80BDAD379C01B84CC207 /* Pods-Meow-INT.debug.xcconfig */;
+			baseConfigurationReference = 15F2A17DE6ABFEB77F80D2D6 /* Pods-Meow-INT.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/iOS",
@@ -727,7 +587,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-D INT";
-				PRODUCT_BUNDLE_IDENTIFIER = "meirav-.meow.int";
+				PRODUCT_BUNDLE_IDENTIFIER = meirav.meow.int;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -738,12 +598,12 @@
 		};
 		9B904F801EDFE9A600E01EC0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6948F4E8007BED3ECEB5C212 /* Pods-Meow-INT.release.xcconfig */;
+			baseConfigurationReference = 558B1051089AEFF52863CD45 /* Pods-Meow-INT.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/iOS",
@@ -753,7 +613,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-D INT";
-				PRODUCT_BUNDLE_IDENTIFIER = "meirav-.meow.int";
+				PRODUCT_BUNDLE_IDENTIFIER = meirav.meow.int;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -764,7 +624,6 @@
 		};
 		9BBF748D1FBF720000761529 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FBAB80BDAD379C01B84CC207 /* Pods-Meow-INT.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -790,7 +649,6 @@
 		};
 		9BBF748E1FBF720000761529 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6948F4E8007BED3ECEB5C212 /* Pods-Meow-INT.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -816,12 +674,11 @@
 		};
 		9BBF74A01FBF72A700761529 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FBAB80BDAD379C01B84CC207 /* Pods-Meow-INT.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 83U7U2U9D6;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/iOS",
@@ -831,7 +688,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-D ACCESSIBILITYINT";
-				PRODUCT_BUNDLE_IDENTIFIER = "meow.int-accessibility";
+				PRODUCT_BUNDLE_IDENTIFIER = "meirav.meow.int-accessibility";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -842,12 +699,11 @@
 		};
 		9BBF74A11FBF72A700761529 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6948F4E8007BED3ECEB5C212 /* Pods-Meow-INT.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 83U7U2U9D6;
+				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/iOS",
@@ -857,7 +713,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_SWIFT_FLAGS = "-D ACCESSIBILITYINT";
-				PRODUCT_BUNDLE_IDENTIFIER = "meow.int-accessibility";
+				PRODUCT_BUNDLE_IDENTIFIER = "meirav.meow.int-accessibility";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
